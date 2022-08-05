@@ -11,7 +11,7 @@ Features:
 
 That's about it.
 
-Things I am working on:
+Things I am working on, (note some features may not be released for a while unto CVR makes it easier to make custom players):
 - Better UI.
 - Volume control.
 - Add to play list, E.G you enable playlist mode, you add a video and it get's added to the playlist, so after a video stop playing it will play the next in queue, please note I not sure if this is possible yet.
