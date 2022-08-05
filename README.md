@@ -21,4 +21,4 @@ Things I am working on:
 - Possible audio link intergration? (MAYBE).
 
 See image below: 
-![alt text](![image](https://user-images.githubusercontent.com/104736380/183082796-f8130c84-f2d2-41be-a93c-079cd557c4fd.png))
+![alt text](![image](https://i.imgur.com/iXCJhdd.jpeg))
