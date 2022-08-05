@@ -22,3 +22,6 @@ Things I am working on:
 
 See image below: 
 ![alt text](https://i.imgur.com/iXCJhdd.jpeg)
+
+License:
+You may change the video player and use as you see fit, please just make sure you keep the info panel and my credit in.
