@@ -4,7 +4,7 @@ NOTICE: This version is a early version, you can use it but it does not have as 
 
 This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player.
 
-There are 
+There are two versions.
 
 Version 0.0.1 Features:
 
