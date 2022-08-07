@@ -4,6 +4,16 @@ NOTICE: This version is a early version, you can use it but it does not have as 
 
 This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player.
 
+- You can also get this off Gumroad: Coming Soon.
+- Find more assets on my website: https://jolia.xyz
+- Join my discord server: https://discord.gg/T8zYhgvcpF
+
+Requirments:
+- Unity 2019.4.31f1
+- ChilloutVR CCK 3.3
+- Basic Unity and CVR knowledge.
+- TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
+
 There are two versions.
 
 Version 0.0.1 Features:
