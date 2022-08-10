@@ -14,17 +14,8 @@ Requirments:
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 
-There are two versions.
 
-Version 0.0.1 Features:
-
-Features:
-- Smaller and compact.
-- Play and pause button.
-- Mute buttons.
-
-Version 0.1 Features: This version is not tested due to CVR servers being down, but should work.
-- Better UI then 0.0.1.
+Version 0.1.1 Features: This version is not tested due to CVR servers being down, but should work.
 - Smaller and compact.
 - Play and pause button.
 - Mute buttons.
@@ -42,10 +33,7 @@ Things I am working on, (note some features may not be released for a while unto
 - Possible audio link intergration? (MAYBE).
 
 
-
 See images below: 
-Version 0.0.1:
-![alt text](https://i.imgur.com/iXCJhdd.jpeg)
 
 Version 0.1:
 ![alt text](https://i.imgur.com/ey6yq19.png)
