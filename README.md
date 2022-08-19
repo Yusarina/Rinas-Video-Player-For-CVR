@@ -2,7 +2,7 @@
 
 NOTICE: This version is a early version, you can use it but it does not have as many features as the CVR's in-built version. Also the UI isn't that great and will be improved. 
 
-This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player.
+This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player).
 
 - You can also get this off Gumroad: Coming Soon.
 - Find more assets on my website: https://jolia.xyz
