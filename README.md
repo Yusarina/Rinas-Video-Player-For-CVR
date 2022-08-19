@@ -15,13 +15,16 @@ Requirments:
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 
 
-Version 0.1.1 Features: This version is not tested due to CVR servers being down, but should work.
+Version 0.1.1 Features:
 - Smaller and compact.
 - Play and pause button.
 - Mute buttons.
-- Volume control (Not tested).
-- Dark Screeen mode (Not Tested).
-- Audio player only version (Not Tested).
+- Volume control.
+- Dark Screeen mode.
+- Audio player only version.
+
+Known Issues: 
+Volume control does not work, this may not work unto CVR allows more control on things.
 
 That's about it.
 
