@@ -42,4 +42,5 @@ Version 0.1:
 ![alt text](https://i.imgur.com/ey6yq19.png)
 
 License:
-You may change the video player and use as you see fit, please just make sure you keep the info panel and my credit in it.
+
+All my assets unless otherwise stated fall under the Creative Commons Attribution 4.0 International (CC BY 4.0) License which means you can use my assets in anyway you want as long as you give me credit! See the full license here: https://creativecommons.org/licenses/by/4.0/
