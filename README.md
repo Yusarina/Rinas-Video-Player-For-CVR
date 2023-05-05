@@ -1,5 +1,7 @@
 # Jolia's Video Player For CVR
 
+NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
+
 NOTICE: This version is a early version, you can use it but it does not have as many features as the CVR's in-built version. Also the UI isn't that great and will be improved. 
 
 This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player).
