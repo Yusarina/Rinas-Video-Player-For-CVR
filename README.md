@@ -1,14 +1,9 @@
-# Jolia's Video Player For CVR
+# Rina's Video Player For CVR
 
-NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
-
+## THIS ASSET IS NO LONGER UPDATED.
 NOTICE: This version is a early version, you can use it but it does not have as many features as the CVR's in-built version. Also the UI isn't that great and will be improved. 
 
 This video player is more if you want a more compact version, if you want playlists support, volume control and etc please use the official version. (You can still set playlist inside unity however there no where to sellect them in-game with this video player).
-
-- You can also get this off Gumroad: Coming Soon.
-- Find more assets on my website: https://jolia.xyz
-- Join my discord server: https://discord.gg/T8zYhgvcpF
 
 Requirments:
 - Unity 2019.4.31f1
